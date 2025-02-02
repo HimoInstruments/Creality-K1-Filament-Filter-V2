@@ -1,19 +1,20 @@
-# Creality K1 Filament Filter
+# Creality K1 Filament Filter V2
 
 Bu proje, 3D yazıcılar için tasarlanmış bir filament filtre sistemini içermektedir. Filtre, filamentin toz ve kirlerden arınmasını sağlayarak daha kaliteli baskılar elde etmenize yardımcı olur.
 
 ## Proje Amacı
 
-Bu projenin amacı, 3D yazıcı kullanıcılarının filamentlerini daha temiz ve güvenilir bir şekilde kullanmalarını sağlamaktır. Filtre, özellikle uzun süre açıkta kalan filamentlerin tozlanmasını önleyerek baskı kalitesini artırmayı hedefler.
+Bu projenin amacı, 3D yazıcı kullanıcılarının baskı kaltiesini bulundukları çevre ve koşullardan etkilenmemesini sağlamaktır. Filtre, özellikle uzun süre açıkta kalan filamentlerin tozlanmasını önleyerek baskı kalitesini artırmayı hedefler.
 
 ## Proje Nasıl Uygulanır?
 
 1. **STL Dosyasını İndir**: Aşağıdaki bağlantıdan 3D modelin STL dosyasını indirin.
 2. **3D Yazıcıda Bas**: İndirdiğiniz STL dosyasını 3D yazıcınızda uygun malzeme ve ayarlarla basın.
-3. **Montaj**: Basılan parçaları talimatlara göre birleştirin ve filtre sistemini filament yoluna entegre edin.
-4. **Kullanım**: Filtre sistemini kullanarak filamentinizi temizleyin ve daha kaliteli baskılar elde edin.
-5. **NOT:** Filamenti süngerden ve delikten geçirmek için son görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir kullandığınız süngerin yoğunluğununa ve türüne göre
-değişiklik gösterebilir.
+3. **Montaj**: Basılan parçaları talimatlara göre birleştirin ve filtre sistemini filament yoluna entegre edin.(PTFE filament boru ile ek yapılabiln-
+4. mesi için üst kısımda 3.90mm genişliğinide ek hattı bırakıldı sensör ve filament filitresi arasına PTFE boru eklenmesi daha doğru olacaktır.)
+5. **Kullanım**: Filtre sistemini kullanarak filamentinizi temizleyin ve daha kaliteli baskılar elde edin.
+6. **NOT:** Filamenti süngerden ve delikten geçirmek için son görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir, kullandığınız süngerin
+7.  yoğunluğununa ve türüne göredeğişiklik gösterebilir.
 ## Baskı Parametreleri
 
 Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yazıcı ayarları bulunmaktadır:
