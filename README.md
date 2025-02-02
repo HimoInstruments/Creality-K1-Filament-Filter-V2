@@ -12,7 +12,8 @@ Bu projenin amacı, 3D yazıcı kullanıcılarının filamentlerini daha temiz v
 2. **3D Yazıcıda Bas**: İndirdiğiniz STL dosyasını 3D yazıcınızda uygun malzeme ve ayarlarla basın.
 3. **Montaj**: Basılan parçaları talimatlara göre birleştirin ve filtre sistemini filament yoluna entegre edin.
 4. **Kullanım**: Filtre sistemini kullanarak filamentinizi temizleyin ve daha kaliteli baskılar elde edin.
-
+5. **NOT:** Filamenti süngerden ve delikten geçirmek için son görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir kullandığınız süngerin yoğunluğununa ve türüne göre
+değişiklik gösterebilir.
 ## Baskı Parametreleri
 
 Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yazıcı ayarları bulunmaktadır:
@@ -20,15 +21,15 @@ Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yaz
 | Parametre            | Değer                           |
 |----------------------|---------------------------------|
 | **Yazıcı Modeli**    | Creality K1                     |
-| **Filament Türü**    | PLA                             |
-| **Filament Rengi**   | Siyah(veya tercih ettiğiniz renk|
+| **Filament Türü**    | PLA+                             |
+| **Filament Rengi**   | Siyah(veya tercih ettiğiniz renk)|
 | **Nozul Sıcaklığı**  | 210°C - 220°C                   |
-| **Yatak Sıcaklığı**  | 55°C                            |
+| **Yatak Sıcaklığı**  | 55°C (PEI tabla)                |
 | **Baskı Hızı**       | 450 mm/s                        |
 | **Katman Yüksekliği**| 0.2 mm                          |
 | **Doluluk Oranı**    | %30                             |
 | **Destek Yapısı**    | Gerekli                         |
-| **Baskı Süresi**     | Yaklaşık 30 dk(yazıcıya göre değişir)|
+| **Baskı Süresi**     | Yaklaşık 30 Dakika (yazıcıya göre değişir)|
 
 ## STL Dosyasını İndir
 
