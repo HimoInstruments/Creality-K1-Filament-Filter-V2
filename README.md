@@ -10,11 +10,9 @@ Bu projenin amacı, 3D yazıcı kullanıcılarının baskı kaltiesini bulundukl
 
 1. **STL Dosyasını İndir**: Aşağıdaki bağlantıdan 3D modelin STL dosyasını indirin.
 2. **3D Yazıcıda Bas**: İndirdiğiniz STL dosyasını 3D yazıcınızda uygun malzeme ve ayarlarla basın.
-3. **Montaj**: Basılan parçaları talimatlara göre birleştirin ve filtre sistemini filament yoluna entegre edin.(PTFE filament boru ile ek yapılabiln-
-4. mesi için üst kısımda 3.90mm genişliğinide ek hattı bırakıldı sensör ve filament filitresi arasına PTFE boru eklenmesi daha doğru olacaktır.)
+3. **Montaj**: Basılan parçaları talimatlara göre birleştirin ve filtre sistemini filament yoluna entegre edin.(PTFE filament boru ile ek yapılabilnmesi için üst kısımda 3.90mm genişliğinide ek hattı bırakıldı sensör ve filament filitresi arasına PTFE boru eklenmesi daha doğru olacaktır.)
 5. **Kullanım**: Filtre sistemini kullanarak filamentinizi temizleyin ve daha kaliteli baskılar elde edin.
-6. **NOT:** Filamenti süngerden ve delikten geçirmek için son görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir, kullandığınız süngerin
-7.  yoğunluğununa ve türüne göredeğişiklik gösterebilir.
+6. **NOT:** Filamenti süngerden ve delikten geçirmek için son görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir, kullandığınız süngerin yoğunluğununa ve türüne göredeğişiklik gösterebilir.
 ## Baskı Parametreleri
 
 Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yazıcı ayarları bulunmaktadır:
@@ -54,6 +52,6 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 ![Proje Resmi 1](link_to_image_1)
 ![Proje Resmi 2](link_to_image_2)
 
-## Lisans
+## LICENSE
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
