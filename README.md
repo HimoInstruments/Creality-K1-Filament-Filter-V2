@@ -34,7 +34,7 @@ Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yaz
 
 ## STL Dosyasını İndir
 
-[STL Dosyasını İndir](link_to_stl_file)
+[Ücretsiz STL Dosyasını İndir](https://github.com/ylmzagac/Crealiity-K1-Filament-Filter-V2/blob/main/Creality_K1_Filament_Filter%20V2.stl)
 
 ## Ürünü Satın Al
 
