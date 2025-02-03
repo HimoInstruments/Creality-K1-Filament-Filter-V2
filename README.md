@@ -2,7 +2,7 @@
 
 Bu proje, 3D yazıcılar için tasarlanmış bir filament filtre sistemini içermektedir. Filtre, filamentin toz ve kirlerden arınmasını sağlayarak daha kaliteli baskılar elde etmenize yardımcı olur.
 
-## Proje Amacı
+## 📄 Proje Amacı
 
 Bu projenin amacı, 3D yazıcı kullanıcılarının baskı kaltiesini bulundukları çevre ve koşullardan etkilenmemesini sağlamaktır. Filtre, özellikle uzun süre açıkta kalan filamentlerin tozlanmasını önleyerek baskı kalitesini artırmayı hedefler.
 
@@ -30,11 +30,11 @@ Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yaz
 | **Destek Yapısı**    | Gerekli                         |
 | **Baskı Süresi**     | Yaklaşık 30 Dakika (yazıcıya göre değişir)|
 
-## STL Dosyasını İndir
+## 📥 STL Dosyasını İndir
 
 [Ücretsiz STL Dosyasını İndir](https://github.com/ylmzagac/Crealiity-K1-Filament-Filter-V2/blob/main/Creality_K1_Filament_Filter%20V2.stl)
 
-## Ürünü Satın Al
+## 🛒 Ürünü Satın Al
 
 Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlantıları kullanabilirsiniz:
 
