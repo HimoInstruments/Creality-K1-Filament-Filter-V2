@@ -38,7 +38,7 @@ Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yaz
 
 Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlantıları kullanabilirsiniz:
 
-- **[Tindie'den Satın Al](link_to_tindie_product)**
+- **[Tindie'den Satın Al]([link_to_tindie_product](https://www.tindie.com/stores/himoinstruments/items/))**
 
 ## 🔗 Faydalı Linkler
 
