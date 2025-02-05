@@ -40,12 +40,6 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 
 - **[Tindie'den Satın Al](https://www.tindie.com/stores/himoinstruments/items/)**
 
-## 🔗 Faydalı Linkler
-
-- [3D Yazıcı Filament Temizleme Rehberi](link_to_guide)
-- [3D Yazıcılar için Bakım İpuçları](link_to_maintenance_tips)
-- [Filament Çeşitleri ve Özellikleri](link_to_filament_types)
-
 ## 📸 Proje Görselleri
 
 ![Proje Resmi 1](link_to_image_1)
