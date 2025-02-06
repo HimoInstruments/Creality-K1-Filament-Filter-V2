@@ -43,6 +43,16 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 ## 📸 Proje Görselleri
 
 ![Görsel 1](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_0.jpg)
+![Görsel 2](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_1.jpg)
+![Görsel 3](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_2.jpg)
+![Görsel 4](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_3.jpg)
+![Görsel 5](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_4.jpg)
+![Görsel 6](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_5.jpg)
+![Görsel 7](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_6.jpg)
+![Görsel 8](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_7.jpg)
+![Görsel 9](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_8.jpg)
+![Görsel 10](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_9.jpg)
+
 ## 🧾 LICENSE
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
