@@ -12,7 +12,7 @@ Bu projenin amacı, 3D yazıcı kullanıcılarının baskı kaltiesini bulundukl
 2. **3D Yazıcıda Bas**: İndirdiğiniz STL dosyasını 3D yazıcınızda uygun malzeme ve ayarlarla basın.
 3. **Montaj**: Basılan parçaları talimatlara göre birleştirin ve filtre sistemini filament yoluna entegre edin.(PTFE filament boru ile ek yapılabilnmesi için üst kısımda 3.90mm genişliğinide ek hattı bırakıldı sensör ve filament filitresi arasına PTFE boru eklenmesi daha doğru olacaktır.)
 5. **Kullanım**: Filtre sistemini kullanarak filamentinizi temizleyin ve daha kaliteli baskılar elde edin.
-6. **NOT:** Filamenti süngerden ve delikten geçirmek için son görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir, kullandığınız süngerin yoğunluğununa ve türüne göredeğişiklik gösterebilir.
+6. **NOT:** Filamenti süngerden ve delikten geçirmek için [5.](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_8.jpg) görseldeki gibi filamenti %45-%80 açı ile kesmeniz gerekebilir, kullandığınız süngerin yoğunluğununa ve türüne göredeğişiklik gösterebilir.
 ## ⚙️ Baskı Parametreleri
 
 Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yazıcı ayarları bulunmaktadır:
@@ -55,13 +55,10 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 ![Görsel 4](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_5.jpg)
 
 ### Görsel 5
-![Görsel 5](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_7.jpg)
+![Görsel 5](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_8.jpg)
 
 ### Görsel 6
-![Görsel 6](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_8.jpg)
-
-### Görsel 7
-![Görsel 7](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_9.jpg)
+![Görsel 6](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_9.jpg)
 
 ## 🧾 LICENSE
 
