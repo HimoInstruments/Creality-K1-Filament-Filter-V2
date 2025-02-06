@@ -42,8 +42,7 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 
 ## 📸 Proje Görselleri
 
-![Proje Resmi 1](link_to_image_1)
-![Proje Resmi 2](link_to_image_2)
+![Proje Resmi 1]((https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_0.jpg)
 
 ## 🧾 LICENSE
 
