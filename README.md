@@ -42,25 +42,25 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 
 ## 📸 Proje Görselleri
 
-### Görsel 1: Proje Görseli 1
+### Görsel 1
 ![Görsel 1](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_0.jpg)
 
-### Görsel 2: Proje Görseli 2
+### Görsel 2
 ![Görsel 2](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_1.jpg)
 
-### Görsel 3: Proje Görseli 3
+### Görsel 3
 ![Görsel 3](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_3.jpg)
 
-### Görsel 4: Proje Görseli 4
+### Görsel 4
 ![Görsel 4](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_5.jpg)
 
-### Görsel 5: Proje Görseli 5
+### Görsel 5
 ![Görsel 5](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_7.jpg)
 
-### Görsel 6: Proje Görseli 6
+### Görsel 6
 ![Görsel 6](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_8.jpg)
 
-### Görsel 7: Proje Görseli 7
+### Görsel 7
 ![Görsel 7](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_9.jpg)
 
 ## 🧾 LICENSE
