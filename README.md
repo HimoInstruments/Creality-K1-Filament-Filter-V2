@@ -42,8 +42,7 @@ Bu projeyi satın almak veya daha fazla bilgi edinmek için aşağıdaki bağlan
 
 ## 📸 Proje Görselleri
 
-![Proje Resmi 1]((https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_0.jpg)
-
+![Görsel 1](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/project-galery/Creality_K1_Filter_V2_0.jpg)
 ## 🧾 LICENSE
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
