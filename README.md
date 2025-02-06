@@ -1,6 +1,6 @@
 # 🚀 Creality K1 Filament Filter V2
 
-Bu proje, 3D yazıcılar için tasarlanmış bir filament filtre sistemini içermektedir. Filtre, filamentin toz ve kirlerden arınmasını sağlayarak daha kaliteli baskılar elde etmenize yardımcı olur.
+Merhaba. Bu proje, 3D yazıcılar için tasarlanmış bir filament filtre sistemini içermektedir. Filtre, filamentin toz ve kirlerden arınmasını sağlayarak daha kaliteli baskılar elde etmenize yardımcı olur.
 
 ## 📄 Proje Amacı
 
