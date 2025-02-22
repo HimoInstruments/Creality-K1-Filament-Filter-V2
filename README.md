@@ -32,7 +32,7 @@ Aşağıda, bu projenin başarılı bir şekilde basılması için önerilen yaz
 
 ## 📥 STL Dosyasını İndir
 
-[Ücretsiz STL Dosyasını İndir](https://github.com/ylmzagac/Crealiity-K1-Filament-Filter-V2/blob/main/Creality_K1_Filament_Filter%20V2.stl)
+[Ücretsiz STL Dosyasını İndir](https://github.com/HimoInstruments/Creality-K1-Filament-Filter-V2/blob/main/Creality_K1_Filament_Filter%20V2.st)
 
 ## 🛒 Ürünü Satın Al
 
